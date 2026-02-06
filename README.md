@@ -1,2 +1,2 @@
 # SA_Diagrams
-![Описание изображения](diagrams/1.png)
+![Описание изображения](diagrams/context_diagram.png)
